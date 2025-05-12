@@ -36,7 +36,7 @@ jobs:
         run: |
           python src/proyecto/static/models/collector.py
 
-      - name: 5. Listar archivos y directorios
+      - name: 5. Listamos archivos y directorios
         run: ls -lR
 
       - name: 6. Commit y subir cambios
