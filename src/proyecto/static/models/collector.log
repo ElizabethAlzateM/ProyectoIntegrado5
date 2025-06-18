@@ -241,3 +241,5 @@
 2025-06-16 01:25:13,847 - DataCollector - INFO - ✅ Datos guardados correctamente en CSV
 2025-06-17 01:23:16,763 - DataCollector - ERROR - ⚠ Error al obtener los datos, código: 404
 2025-06-17 01:23:16,763 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
+2025-06-18 01:22:19,255 - DataCollector - ERROR - ⚠ Error al obtener los datos, código: 404
+2025-06-18 01:22:19,256 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
