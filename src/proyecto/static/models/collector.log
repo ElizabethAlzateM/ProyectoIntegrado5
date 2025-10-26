@@ -501,3 +501,5 @@
 2025-10-24 01:14:22,338 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
 2025-10-25 01:15:31,408 - DataCollector - ERROR - ⚠ Error al obtener los datos, código: 404
 2025-10-25 01:15:31,409 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
+2025-10-26 01:22:56,417 - DataCollector - ERROR - ⚠ Error al obtener los datos, código: 404
+2025-10-26 01:22:56,418 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
