@@ -775,3 +775,5 @@
 2026-03-11 01:50:32,272 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
 2026-03-12 01:55:52,457 - DataCollector - ERROR - ⚠ Error al obtener los datos, código: 404
 2026-03-12 01:55:52,458 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
+2026-03-13 01:54:41,706 - DataCollector - ERROR - ⚠ Error al obtener los datos, código: 404
+2026-03-13 01:54:41,707 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
