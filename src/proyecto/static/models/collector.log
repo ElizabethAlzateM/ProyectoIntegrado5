@@ -1111,3 +1111,6 @@
 2026-08-26 01:07:18,877 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
 2026-08-27 07:14:12,855 - DataCollector - ERROR - ⚠ Error al obtener los datos, código: 404
 2026-08-27 07:14:12,855 - DataCollector - ERROR - ⚠ No se pudieron obtener datos, el proceso se detiene.
+2026-08-28 09:27:11,696 - DataCollector - INFO - ✅ Datos obtenidos correctamente.
+2026-08-28 09:27:11,711 - DataCollector - INFO - ✅ Base de datos actualizada correctamente
+2026-08-28 09:27:11,714 - DataCollector - INFO - ✅ Datos guardados correctamente en CSV
